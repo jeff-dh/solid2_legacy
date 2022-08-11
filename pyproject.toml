@@ -15,7 +15,7 @@ python = "^3.8"
 pypng = "^0.0.19"
 prettytable = "=0.7.2"
 euclid3 = "^0.1.0"
-solidpython2 = {git = "https://github.com/jeff-dh/SolidPython/", rev = "exp_solid"}
+solidpython2 = "^2.0.0-beta.1"
 
 [tool.poetry.dev-dependencies]
 
