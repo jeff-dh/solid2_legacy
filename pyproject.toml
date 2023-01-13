@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "solidpython2-legacy"
-version = "0.1.0"
+version = "0.1.1"
 description = "the legacy extension for SolidPython 2.x.x which provides some backwards compatibility to SolidPython 1.x.x"
 authors = ["jeff <1105041+jeff-dh@users.noreply.github.com>"]
 license = "LGPL"
